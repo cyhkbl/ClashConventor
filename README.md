@@ -16,4 +16,4 @@ Convent Clash .yaml file into links including ss://, ssr://, vmess://, vless://,
 
 ## Future Plan
 
-Add graphical interfaces.
+Add graphical interfaces for easier use.
